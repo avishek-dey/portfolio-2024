@@ -1,4 +1,4 @@
-* {
+mi* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -720,7 +720,7 @@ footer {
   .section-2 {
     width: 100vw;
     height: auto;
-    flex-direction: column-reverse;
+    flex-direction: column;
     gap: 25px;
 
     .text {
