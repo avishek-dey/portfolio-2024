@@ -720,7 +720,7 @@ footer {
   .section-2 {
     width: 100vw;
     height: auto;
-    flex-direction: reverse-column;
+    flex-direction: column-reverse;
     gap: 25px;
 
     .text {
